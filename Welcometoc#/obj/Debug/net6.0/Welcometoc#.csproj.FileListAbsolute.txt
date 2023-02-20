@@ -1,0 +1,15 @@
+C:\Users\Onwe\Documents\Backend\Welcometoc#\bin\Debug\net6.0\Welcometoc#.exe
+C:\Users\Onwe\Documents\Backend\Welcometoc#\bin\Debug\net6.0\Welcometoc#.deps.json
+C:\Users\Onwe\Documents\Backend\Welcometoc#\bin\Debug\net6.0\Welcometoc#.runtimeconfig.json
+C:\Users\Onwe\Documents\Backend\Welcometoc#\bin\Debug\net6.0\Welcometoc#.dll
+C:\Users\Onwe\Documents\Backend\Welcometoc#\bin\Debug\net6.0\ref\Welcometoc#.dll
+C:\Users\Onwe\Documents\Backend\Welcometoc#\bin\Debug\net6.0\Welcometoc#.pdb
+C:\Users\Onwe\Documents\Backend\Welcometoc#\obj\Debug\net6.0\Welcometoc#.csproj.AssemblyReference.cache
+C:\Users\Onwe\Documents\Backend\Welcometoc#\obj\Debug\net6.0\Welcometoc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onwe\Documents\Backend\Welcometoc#\obj\Debug\net6.0\Welcometoc#.AssemblyInfoInputs.cache
+C:\Users\Onwe\Documents\Backend\Welcometoc#\obj\Debug\net6.0\Welcometoc#.AssemblyInfo.cs
+C:\Users\Onwe\Documents\Backend\Welcometoc#\obj\Debug\net6.0\Welcometoc#.csproj.CoreCompileInputs.cache
+C:\Users\Onwe\Documents\Backend\Welcometoc#\obj\Debug\net6.0\Welcometoc#.dll
+C:\Users\Onwe\Documents\Backend\Welcometoc#\obj\Debug\net6.0\ref\Welcometoc#.dll
+C:\Users\Onwe\Documents\Backend\Welcometoc#\obj\Debug\net6.0\Welcometoc#.pdb
+C:\Users\Onwe\Documents\Backend\Welcometoc#\obj\Debug\net6.0\Welcometoc#.genruntimeconfig.cache

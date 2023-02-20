@@ -1,0 +1,15 @@
+C:\Users\Onwe\Documents\Backend\Backend_projects\bin\Debug\net6.0\Backend_projects.exe
+C:\Users\Onwe\Documents\Backend\Backend_projects\bin\Debug\net6.0\Backend_projects.deps.json
+C:\Users\Onwe\Documents\Backend\Backend_projects\bin\Debug\net6.0\Backend_projects.runtimeconfig.json
+C:\Users\Onwe\Documents\Backend\Backend_projects\bin\Debug\net6.0\Backend_projects.dll
+C:\Users\Onwe\Documents\Backend\Backend_projects\bin\Debug\net6.0\ref\Backend_projects.dll
+C:\Users\Onwe\Documents\Backend\Backend_projects\bin\Debug\net6.0\Backend_projects.pdb
+C:\Users\Onwe\Documents\Backend\Backend_projects\obj\Debug\net6.0\Backend_projects.csproj.AssemblyReference.cache
+C:\Users\Onwe\Documents\Backend\Backend_projects\obj\Debug\net6.0\Backend_projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onwe\Documents\Backend\Backend_projects\obj\Debug\net6.0\Backend_projects.AssemblyInfoInputs.cache
+C:\Users\Onwe\Documents\Backend\Backend_projects\obj\Debug\net6.0\Backend_projects.AssemblyInfo.cs
+C:\Users\Onwe\Documents\Backend\Backend_projects\obj\Debug\net6.0\Backend_projects.csproj.CoreCompileInputs.cache
+C:\Users\Onwe\Documents\Backend\Backend_projects\obj\Debug\net6.0\Backend_projects.dll
+C:\Users\Onwe\Documents\Backend\Backend_projects\obj\Debug\net6.0\ref\Backend_projects.dll
+C:\Users\Onwe\Documents\Backend\Backend_projects\obj\Debug\net6.0\Backend_projects.pdb
+C:\Users\Onwe\Documents\Backend\Backend_projects\obj\Debug\net6.0\Backend_projects.genruntimeconfig.cache
