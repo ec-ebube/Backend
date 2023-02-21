@@ -16,7 +16,7 @@ namespace Forfun
                 newnoun = newnoun + noun[Length];
                 Length--;
             }
-                Console.WriteLine(newnoun);
+            Console.WriteLine(newnoun);
         }
 
         //Challenge Two
@@ -27,10 +27,10 @@ namespace Forfun
             int salary = 100000;
             int years = 35;
             Console.WriteLine(salary);
-            for (int i = 4; i < years; i = i+4)
+            for (int i = 4; i < years; i = i + 4)
             {
                 salary = salary + 10000;
-                Console.WriteLine(salary); 
+                Console.WriteLine(salary);
             }
         }
     }
