@@ -182,5 +182,6 @@ namespace HelloWorld
             double pension = total_income - spent;
             return pension;
         }
+        //Create a class of any object of my choice and properties
     }
 }
