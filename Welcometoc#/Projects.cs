@@ -143,10 +143,15 @@ namespace HelloWorld
             }
         }
         // Create  three methods that depend on each other to run
-        // double income = 300000;
-        public static double all_taxes()
+        public Projects(double _income)
         {
-            double income = 300000;
+            income = _income;
+            Console.WriteLine(income);
+        }
+        double income = 300000;
+        public  double all_taxes()
+        {
+            // double income = 300000;
             double govt_tax = ((2/100)* income);
             double town_dues = ((0.9/100)*income);
             double tithe = ((10/100)* income);
@@ -156,7 +161,7 @@ namespace HelloWorld
             return takehome;
         }
 
-        public static double responsibility()
+        public  double responsibility()
         {
             double income = 300000;
             double food = 30/100 *(income);
@@ -168,14 +173,14 @@ namespace HelloWorld
             return savings;
         }
 
-        public static double after_service()
+        public  double after_service()
         {
             double income = 300000;
             double years = 35;
             double spent = ((income)-(responsibility()))*years;
             double total_income = (income)*years;
             double pension = total_income - spent;
-            return pension;
+            return pension; 
         }
     }
 }
