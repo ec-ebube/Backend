@@ -1,0 +1,15 @@
+C:\Users\Onwe\Documents\Backend\Learning\bin\Debug\net6.0\Learning.exe
+C:\Users\Onwe\Documents\Backend\Learning\bin\Debug\net6.0\Learning.deps.json
+C:\Users\Onwe\Documents\Backend\Learning\bin\Debug\net6.0\Learning.runtimeconfig.json
+C:\Users\Onwe\Documents\Backend\Learning\bin\Debug\net6.0\Learning.dll
+C:\Users\Onwe\Documents\Backend\Learning\bin\Debug\net6.0\ref\Learning.dll
+C:\Users\Onwe\Documents\Backend\Learning\bin\Debug\net6.0\Learning.pdb
+C:\Users\Onwe\Documents\Backend\Learning\obj\Debug\net6.0\Learning.csproj.AssemblyReference.cache
+C:\Users\Onwe\Documents\Backend\Learning\obj\Debug\net6.0\Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onwe\Documents\Backend\Learning\obj\Debug\net6.0\Learning.AssemblyInfoInputs.cache
+C:\Users\Onwe\Documents\Backend\Learning\obj\Debug\net6.0\Learning.AssemblyInfo.cs
+C:\Users\Onwe\Documents\Backend\Learning\obj\Debug\net6.0\Learning.csproj.CoreCompileInputs.cache
+C:\Users\Onwe\Documents\Backend\Learning\obj\Debug\net6.0\Learning.dll
+C:\Users\Onwe\Documents\Backend\Learning\obj\Debug\net6.0\ref\Learning.dll
+C:\Users\Onwe\Documents\Backend\Learning\obj\Debug\net6.0\Learning.pdb
+C:\Users\Onwe\Documents\Backend\Learning\obj\Debug\net6.0\Learning.genruntimeconfig.cache
