@@ -1,0 +1,15 @@
+C:\Users\Onwe\Documents\Backend\CIA\obj\Debug\net6.0\CIA.csproj.AssemblyReference.cache
+C:\Users\Onwe\Documents\Backend\CIA\obj\Debug\net6.0\CIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onwe\Documents\Backend\CIA\obj\Debug\net6.0\CIA.AssemblyInfoInputs.cache
+C:\Users\Onwe\Documents\Backend\CIA\obj\Debug\net6.0\CIA.AssemblyInfo.cs
+C:\Users\Onwe\Documents\Backend\CIA\obj\Debug\net6.0\CIA.csproj.CoreCompileInputs.cache
+C:\Users\Onwe\Documents\Backend\CIA\bin\Debug\net6.0\CIA.exe
+C:\Users\Onwe\Documents\Backend\CIA\bin\Debug\net6.0\CIA.deps.json
+C:\Users\Onwe\Documents\Backend\CIA\bin\Debug\net6.0\CIA.runtimeconfig.json
+C:\Users\Onwe\Documents\Backend\CIA\bin\Debug\net6.0\CIA.dll
+C:\Users\Onwe\Documents\Backend\CIA\bin\Debug\net6.0\ref\CIA.dll
+C:\Users\Onwe\Documents\Backend\CIA\bin\Debug\net6.0\CIA.pdb
+C:\Users\Onwe\Documents\Backend\CIA\obj\Debug\net6.0\CIA.dll
+C:\Users\Onwe\Documents\Backend\CIA\obj\Debug\net6.0\ref\CIA.dll
+C:\Users\Onwe\Documents\Backend\CIA\obj\Debug\net6.0\CIA.pdb
+C:\Users\Onwe\Documents\Backend\CIA\obj\Debug\net6.0\CIA.genruntimeconfig.cache

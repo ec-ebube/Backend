@@ -1,11 +1,10 @@
 using System;
 namespace ClassExample;
-public class People
+public class People : Persons
 {
-    public string? firstname;
-    public string? lastname;
-    public int age;
-    public string? gender;
-    public int student_id;
+    public void humanActivity()
+    {
+        Console.WriteLine("They may include working, teaching etc");
+    }
 }
 

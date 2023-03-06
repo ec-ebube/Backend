@@ -1,0 +1,15 @@
+C:\Users\Onwe\Documents\Backend\FilesExample\bin\Debug\net6.0\FilesExample.exe
+C:\Users\Onwe\Documents\Backend\FilesExample\bin\Debug\net6.0\FilesExample.deps.json
+C:\Users\Onwe\Documents\Backend\FilesExample\bin\Debug\net6.0\FilesExample.runtimeconfig.json
+C:\Users\Onwe\Documents\Backend\FilesExample\bin\Debug\net6.0\FilesExample.dll
+C:\Users\Onwe\Documents\Backend\FilesExample\bin\Debug\net6.0\ref\FilesExample.dll
+C:\Users\Onwe\Documents\Backend\FilesExample\bin\Debug\net6.0\FilesExample.pdb
+C:\Users\Onwe\Documents\Backend\FilesExample\obj\Debug\net6.0\FilesExample.csproj.AssemblyReference.cache
+C:\Users\Onwe\Documents\Backend\FilesExample\obj\Debug\net6.0\FilesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onwe\Documents\Backend\FilesExample\obj\Debug\net6.0\FilesExample.AssemblyInfoInputs.cache
+C:\Users\Onwe\Documents\Backend\FilesExample\obj\Debug\net6.0\FilesExample.AssemblyInfo.cs
+C:\Users\Onwe\Documents\Backend\FilesExample\obj\Debug\net6.0\FilesExample.csproj.CoreCompileInputs.cache
+C:\Users\Onwe\Documents\Backend\FilesExample\obj\Debug\net6.0\FilesExample.dll
+C:\Users\Onwe\Documents\Backend\FilesExample\obj\Debug\net6.0\ref\FilesExample.dll
+C:\Users\Onwe\Documents\Backend\FilesExample\obj\Debug\net6.0\FilesExample.pdb
+C:\Users\Onwe\Documents\Backend\FilesExample\obj\Debug\net6.0\FilesExample.genruntimeconfig.cache

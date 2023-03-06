@@ -1,0 +1,15 @@
+C:\Users\Onwe\Documents\Backend\ExceptionHandler\obj\Debug\net6.0\ExceptionHandler.csproj.AssemblyReference.cache
+C:\Users\Onwe\Documents\Backend\ExceptionHandler\obj\Debug\net6.0\ExceptionHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onwe\Documents\Backend\ExceptionHandler\obj\Debug\net6.0\ExceptionHandler.AssemblyInfoInputs.cache
+C:\Users\Onwe\Documents\Backend\ExceptionHandler\obj\Debug\net6.0\ExceptionHandler.AssemblyInfo.cs
+C:\Users\Onwe\Documents\Backend\ExceptionHandler\obj\Debug\net6.0\ExceptionHandler.csproj.CoreCompileInputs.cache
+C:\Users\Onwe\Documents\Backend\ExceptionHandler\bin\Debug\net6.0\ExceptionHandler.exe
+C:\Users\Onwe\Documents\Backend\ExceptionHandler\bin\Debug\net6.0\ExceptionHandler.deps.json
+C:\Users\Onwe\Documents\Backend\ExceptionHandler\bin\Debug\net6.0\ExceptionHandler.runtimeconfig.json
+C:\Users\Onwe\Documents\Backend\ExceptionHandler\bin\Debug\net6.0\ExceptionHandler.dll
+C:\Users\Onwe\Documents\Backend\ExceptionHandler\bin\Debug\net6.0\ref\ExceptionHandler.dll
+C:\Users\Onwe\Documents\Backend\ExceptionHandler\bin\Debug\net6.0\ExceptionHandler.pdb
+C:\Users\Onwe\Documents\Backend\ExceptionHandler\obj\Debug\net6.0\ExceptionHandler.dll
+C:\Users\Onwe\Documents\Backend\ExceptionHandler\obj\Debug\net6.0\ref\ExceptionHandler.dll
+C:\Users\Onwe\Documents\Backend\ExceptionHandler\obj\Debug\net6.0\ExceptionHandler.pdb
+C:\Users\Onwe\Documents\Backend\ExceptionHandler\obj\Debug\net6.0\ExceptionHandler.genruntimeconfig.cache
