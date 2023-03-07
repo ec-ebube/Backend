@@ -1,0 +1,15 @@
+C:\Users\Onwe\Documents\Backend\For_Savings\bin\Debug\net6.0\For_Savings.exe
+C:\Users\Onwe\Documents\Backend\For_Savings\bin\Debug\net6.0\For_Savings.deps.json
+C:\Users\Onwe\Documents\Backend\For_Savings\bin\Debug\net6.0\For_Savings.runtimeconfig.json
+C:\Users\Onwe\Documents\Backend\For_Savings\bin\Debug\net6.0\For_Savings.dll
+C:\Users\Onwe\Documents\Backend\For_Savings\bin\Debug\net6.0\ref\For_Savings.dll
+C:\Users\Onwe\Documents\Backend\For_Savings\bin\Debug\net6.0\For_Savings.pdb
+C:\Users\Onwe\Documents\Backend\For_Savings\obj\Debug\net6.0\For_Savings.csproj.AssemblyReference.cache
+C:\Users\Onwe\Documents\Backend\For_Savings\obj\Debug\net6.0\For_Savings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onwe\Documents\Backend\For_Savings\obj\Debug\net6.0\For_Savings.AssemblyInfoInputs.cache
+C:\Users\Onwe\Documents\Backend\For_Savings\obj\Debug\net6.0\For_Savings.AssemblyInfo.cs
+C:\Users\Onwe\Documents\Backend\For_Savings\obj\Debug\net6.0\For_Savings.csproj.CoreCompileInputs.cache
+C:\Users\Onwe\Documents\Backend\For_Savings\obj\Debug\net6.0\For_Savings.dll
+C:\Users\Onwe\Documents\Backend\For_Savings\obj\Debug\net6.0\ref\For_Savings.dll
+C:\Users\Onwe\Documents\Backend\For_Savings\obj\Debug\net6.0\For_Savings.pdb
+C:\Users\Onwe\Documents\Backend\For_Savings\obj\Debug\net6.0\For_Savings.genruntimeconfig.cache
