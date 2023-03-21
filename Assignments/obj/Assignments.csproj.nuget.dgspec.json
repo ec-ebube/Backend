@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Onwe\\Documents\\Backend\\Assignments\\Assignments.csproj": {}
+    "c:\\Users\\Onwe\\Documents\\Backend\\Assignments\\Assignments.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Onwe\\Documents\\Backend\\Assignments\\Assignments.csproj": {
+    "c:\\Users\\Onwe\\Documents\\Backend\\Assignments\\Assignments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Onwe\\Documents\\Backend\\Assignments\\Assignments.csproj",
+        "projectUniqueName": "c:\\Users\\Onwe\\Documents\\Backend\\Assignments\\Assignments.csproj",
         "projectName": "Assignments",
-        "projectPath": "C:\\Users\\Onwe\\Documents\\Backend\\Assignments\\Assignments.csproj",
+        "projectPath": "c:\\Users\\Onwe\\Documents\\Backend\\Assignments\\Assignments.csproj",
         "packagesPath": "C:\\Users\\Onwe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Onwe\\Documents\\Backend\\Assignments\\obj\\",
+        "outputPath": "c:\\Users\\Onwe\\Documents\\Backend\\Assignments\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Onwe\\AppData\\Roaming\\NuGet\\NuGet.Config"

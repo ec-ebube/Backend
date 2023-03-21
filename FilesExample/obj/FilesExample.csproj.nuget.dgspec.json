@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Onwe\\Documents\\Backend\\FilesExample\\FilesExample.csproj": {}
+    "c:\\Users\\Onwe\\Documents\\Backend\\FilesExample\\FilesExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Onwe\\Documents\\Backend\\FilesExample\\FilesExample.csproj": {
+    "c:\\Users\\Onwe\\Documents\\Backend\\FilesExample\\FilesExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Onwe\\Documents\\Backend\\FilesExample\\FilesExample.csproj",
+        "projectUniqueName": "c:\\Users\\Onwe\\Documents\\Backend\\FilesExample\\FilesExample.csproj",
         "projectName": "FilesExample",
-        "projectPath": "C:\\Users\\Onwe\\Documents\\Backend\\FilesExample\\FilesExample.csproj",
+        "projectPath": "c:\\Users\\Onwe\\Documents\\Backend\\FilesExample\\FilesExample.csproj",
         "packagesPath": "C:\\Users\\Onwe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Onwe\\Documents\\Backend\\FilesExample\\obj\\",
+        "outputPath": "c:\\Users\\Onwe\\Documents\\Backend\\FilesExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Onwe\\AppData\\Roaming\\NuGet\\NuGet.Config"

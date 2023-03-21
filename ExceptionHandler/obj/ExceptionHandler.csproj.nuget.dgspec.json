@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Onwe\\Documents\\Backend\\ExceptionHandler\\ExceptionHandler.csproj": {}
+    "c:\\Users\\Onwe\\Documents\\Backend\\ExceptionHandler\\ExceptionHandler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Onwe\\Documents\\Backend\\ExceptionHandler\\ExceptionHandler.csproj": {
+    "c:\\Users\\Onwe\\Documents\\Backend\\ExceptionHandler\\ExceptionHandler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Onwe\\Documents\\Backend\\ExceptionHandler\\ExceptionHandler.csproj",
+        "projectUniqueName": "c:\\Users\\Onwe\\Documents\\Backend\\ExceptionHandler\\ExceptionHandler.csproj",
         "projectName": "ExceptionHandler",
-        "projectPath": "C:\\Users\\Onwe\\Documents\\Backend\\ExceptionHandler\\ExceptionHandler.csproj",
+        "projectPath": "c:\\Users\\Onwe\\Documents\\Backend\\ExceptionHandler\\ExceptionHandler.csproj",
         "packagesPath": "C:\\Users\\Onwe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Onwe\\Documents\\Backend\\ExceptionHandler\\obj\\",
+        "outputPath": "c:\\Users\\Onwe\\Documents\\Backend\\ExceptionHandler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Onwe\\AppData\\Roaming\\NuGet\\NuGet.Config"

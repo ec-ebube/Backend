@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Onwe\\Documents\\Backend\\For_Savings\\For_Savings.csproj": {}
+    "c:\\Users\\Onwe\\Documents\\Backend\\For_Savings\\For_Savings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Onwe\\Documents\\Backend\\For_Savings\\For_Savings.csproj": {
+    "c:\\Users\\Onwe\\Documents\\Backend\\For_Savings\\For_Savings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Onwe\\Documents\\Backend\\For_Savings\\For_Savings.csproj",
+        "projectUniqueName": "c:\\Users\\Onwe\\Documents\\Backend\\For_Savings\\For_Savings.csproj",
         "projectName": "For_Savings",
-        "projectPath": "C:\\Users\\Onwe\\Documents\\Backend\\For_Savings\\For_Savings.csproj",
+        "projectPath": "c:\\Users\\Onwe\\Documents\\Backend\\For_Savings\\For_Savings.csproj",
         "packagesPath": "C:\\Users\\Onwe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Onwe\\Documents\\Backend\\For_Savings\\obj\\",
+        "outputPath": "c:\\Users\\Onwe\\Documents\\Backend\\For_Savings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Onwe\\AppData\\Roaming\\NuGet\\NuGet.Config"

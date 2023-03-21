@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4F3dkcfq+lmREayQBmeJMNYJJrBNXrlu7JxkB2kAJMaHJNlWMyXcpqM8p5jGqqU4ezZSIAhyCOgxjOsIP8xesA==",
+  "dgSpecHash": "vGgomsiDqvbY7tsJVGXvd6Ok6kC2F4e11MuAzEHrB3/eySYOsKdkHzEvUE0eaJwaN5q4UVec4UDZCWqEcGaxLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Onwe\\Documents\\Backend\\ExceptionHandler\\ExceptionHandler.csproj",
+  "projectFilePath": "c:\\Users\\Onwe\\Documents\\Backend\\ExceptionHandler\\ExceptionHandler.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

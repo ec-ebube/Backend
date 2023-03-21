@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YavtmO+Zz+shBJfJaWW4l188sw6vsSgrC7GCCHLKTq9qA1vT0GGs4WbLAtwHjwbb+s+c4myzx6SRsYfQmr7qWg==",
+  "dgSpecHash": "bMHDYT4dxNXE/d6ge9/EG0JBPziZ71yXY/cFzEa7NUTdfwzjxUuGLhOfjaCJdrMwqD+AcxvDyhNxSRblAYezuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Onwe\\Documents\\Backend\\Palindron\\Palendron.csproj",
+  "projectFilePath": "c:\\Users\\Onwe\\Documents\\Backend\\Palindron\\Palendron.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

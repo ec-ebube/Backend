@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Onwe\\Documents\\Backend\\CIA\\CIA.csproj": {}
+    "c:\\Users\\Onwe\\Documents\\Backend\\CIA\\CIA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Onwe\\Documents\\Backend\\CIA\\CIA.csproj": {
+    "c:\\Users\\Onwe\\Documents\\Backend\\CIA\\CIA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Onwe\\Documents\\Backend\\CIA\\CIA.csproj",
+        "projectUniqueName": "c:\\Users\\Onwe\\Documents\\Backend\\CIA\\CIA.csproj",
         "projectName": "CIA",
-        "projectPath": "C:\\Users\\Onwe\\Documents\\Backend\\CIA\\CIA.csproj",
+        "projectPath": "c:\\Users\\Onwe\\Documents\\Backend\\CIA\\CIA.csproj",
         "packagesPath": "C:\\Users\\Onwe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Onwe\\Documents\\Backend\\CIA\\obj\\",
+        "outputPath": "c:\\Users\\Onwe\\Documents\\Backend\\CIA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Onwe\\AppData\\Roaming\\NuGet\\NuGet.Config"
