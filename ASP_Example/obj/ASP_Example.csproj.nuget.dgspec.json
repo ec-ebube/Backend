@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Onwe\\Documents\\Backend\\ASP_Example\\ASP_Example.csproj": {}
+    "C:\\Users\\Onwe\\Documents\\Backend\\ASP_Example\\ASP_Example.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Onwe\\Documents\\Backend\\ASP_Example\\ASP_Example.csproj": {
+    "C:\\Users\\Onwe\\Documents\\Backend\\ASP_Example\\ASP_Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Onwe\\Documents\\Backend\\ASP_Example\\ASP_Example.csproj",
+        "projectUniqueName": "C:\\Users\\Onwe\\Documents\\Backend\\ASP_Example\\ASP_Example.csproj",
         "projectName": "ASP_Example",
-        "projectPath": "c:\\Users\\Onwe\\Documents\\Backend\\ASP_Example\\ASP_Example.csproj",
+        "projectPath": "C:\\Users\\Onwe\\Documents\\Backend\\ASP_Example\\ASP_Example.csproj",
         "packagesPath": "C:\\Users\\Onwe\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Onwe\\Documents\\Backend\\ASP_Example\\obj\\",
+        "outputPath": "C:\\Users\\Onwe\\Documents\\Backend\\ASP_Example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Onwe\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -41,6 +41,14 @@
             "BCrypt.Net": {
               "target": "Package",
               "version": "[0.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

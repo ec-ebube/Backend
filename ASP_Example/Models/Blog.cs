@@ -7,10 +7,9 @@ namespace ASP_Example
 {
     public class Blog
     {
-        public int id { get; set; }
+        public Guid id { get; set; }
         public string? text { get; set; }
         public string? Title { get; set; }
-        public string? Content { get; set; }
         public DateTime Created_at { get; set; }
         public DateTime Updated_at { get; set; }
     }

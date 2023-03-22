@@ -26,3 +26,14 @@ C:\Users\Onwe\Documents\Backend\ASP_Example\obj\Debug\net6.0\ref\ASP_Example.dll
 C:\Users\Onwe\Documents\Backend\ASP_Example\obj\Debug\net6.0\ASP_Example.pdb
 C:\Users\Onwe\Documents\Backend\ASP_Example\obj\Debug\net6.0\ASP_Example.genruntimeconfig.cache
 C:\Users\Onwe\Documents\Backend\ASP_Example\bin\Debug\net6.0\BCrypt.Net.dll
+C:\Users\Onwe\Documents\Backend\ASP_Example\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Onwe\Documents\Backend\ASP_Example\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Onwe\Documents\Backend\ASP_Example\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Onwe\Documents\Backend\ASP_Example\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Onwe\Documents\Backend\ASP_Example\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Onwe\Documents\Backend\ASP_Example\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Onwe\Documents\Backend\ASP_Example\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Onwe\Documents\Backend\ASP_Example\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Onwe\Documents\Backend\ASP_Example\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Onwe\Documents\Backend\ASP_Example\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Onwe\Documents\Backend\ASP_Example\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
