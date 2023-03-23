@@ -365,60 +365,60 @@ namespace HelloWorld
         //     Console.WriteLine(countrycode);
         // }
 
-        // public static void printIntArr(int[] arr)
-        // {
-        //     Console.WriteLine(String.Join(",", arr));
-        // }
-        // public static int[] RmvElement(int[] arr, int item)
-        // {
-        //     arr = arr.Where(e => e != item).ToArray();
-        //     return arr;
-        // }
-        // public static void my_sort_func()
-        // {
-        //     int[] list = { 5, 3, 2, 7, 9, 10};
-        //     int[] newlist = new int[list.Length];
-        //     int counter = list.Length - 1;
-        //     int count = 0;
-        //     Console.WriteLine("Before sorting");
-        //     printIntArr(list);
+        public static void printIntArr(int[] arr)
+        {
+            Console.WriteLine(String.Join(",", arr));
+        }
+        public static int[] RmvElement(int[] arr, int item)
+        {
+            arr = arr.Where(e => e != item).ToArray();
+            return arr;
+        }
+        public static void my_sort_func()
+        {
+            int[] list = { 5, 3, 2, 7, 9, 10};
+            int[] newlist = new int[list.Length];
+            int counter = list.Length - 1;
+            int count = 0;
+            Console.WriteLine("Before sorting");
+            printIntArr(list);
 
-        //     for (int i = 0; i < list.Length; count++)
-        //     {
-        //         int biggest = 0;
-        //         if (list.Length == 1)
-        //         {
-        //             newlist[counter] = list[0];
-        //         }
-        //         else
-        //         {
-        //             for (int j = i + 1; j < list.Length - i; j++)
-        //             {
-        //                 if (list[i] > list[j] || biggest > list[j])
-        //                 {
-        //                     if (biggest <= list[i])
-        //                     {
-        //                         biggest = list[i];
-        //                     }
-        //                 }
-        //                 else
-        //                 {
-        //                     biggest = list[j];
-        //                 }
-        //             }
-        //             newlist[counter] = biggest;
-        //             list = RmvElement(list, biggest);
-        //         }
-        //         counter--;
-        //         if (counter < 0)
-        //         {
-        //             break;
-        //         }
+            for (int i = 0; i < list.Length; count++)
+            {
+                int biggest = 0;
+                if (list.Length == 1)
+                {
+                    newlist[counter] = list[0];
+                }
+                else
+                {
+                    for (int j = i + 1; j < list.Length - i; j++)
+                    {
+                        if (list[i] > list[j] || biggest > list[j])
+                        {
+                            if (biggest <= list[i])
+                            {
+                                biggest = list[i];
+                            }
+                        }
+                        else
+                        {
+                            biggest = list[j];
+                        }
+                    }
+                    newlist[counter] = biggest;
+                    list = RmvElement(list, biggest);
+                }
+                counter--;
+                if (counter < 0)
+                {
+                    break;
+                }
 
-        //     }
-        //     Console.WriteLine("___________________________");
-        //     Console.WriteLine("After sorting");
-        //     printIntArr(newlist);
+            }
+            Console.WriteLine("___________________________");
+            Console.WriteLine("After sorting");
+            printIntArr(newlist);
 
         //     //Make  a calculator as an assignment
 
@@ -492,4 +492,4 @@ namespace HelloWorld
 
         
     }
-}
+}}

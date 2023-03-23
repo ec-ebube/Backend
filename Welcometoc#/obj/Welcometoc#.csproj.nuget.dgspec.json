@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Onwe\\Documents\\Backend\\Welcometoc#\\Welcometoc#.csproj": {}
+    "C:\\Users\\Onwe\\Documents\\Backend\\Welcometoc#\\Welcometoc#.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Onwe\\Documents\\Backend\\Welcometoc#\\Welcometoc#.csproj": {
+    "C:\\Users\\Onwe\\Documents\\Backend\\Welcometoc#\\Welcometoc#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Onwe\\Documents\\Backend\\Welcometoc#\\Welcometoc#.csproj",
+        "projectUniqueName": "C:\\Users\\Onwe\\Documents\\Backend\\Welcometoc#\\Welcometoc#.csproj",
         "projectName": "Welcometoc#",
-        "projectPath": "c:\\Users\\Onwe\\Documents\\Backend\\Welcometoc#\\Welcometoc#.csproj",
+        "projectPath": "C:\\Users\\Onwe\\Documents\\Backend\\Welcometoc#\\Welcometoc#.csproj",
         "packagesPath": "C:\\Users\\Onwe\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Onwe\\Documents\\Backend\\Welcometoc#\\obj\\",
+        "outputPath": "C:\\Users\\Onwe\\Documents\\Backend\\Welcometoc#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Onwe\\AppData\\Roaming\\NuGet\\NuGet.Config"
